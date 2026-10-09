@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="lDKPpcjanjsf7mpvsdI6">
+    <mxGraphModel dx="1037" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-5" edge="1" parent="1" source="tNRYmi0kZrNwg3SXlgkH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="210.00000000000023" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-31" edge="1" parent="1" source="tNRYmi0kZrNwg3SXlgkH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tNRYmi0kZrNwg3SXlgkH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Global Map in SAR form in&amp;nbsp;&lt;div&gt;Black &amp;amp; White&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="190" x="10" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Scenes" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="460" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="460" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.35" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="209.5" />
+            </Array>
+            <mxPoint x="590" y="209.5" as="sourcePoint" />
+            <mxPoint x="670" y="209.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="All scene" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Retention policy" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.141" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="210" />
+              <mxPoint x="990" y="550" />
+            </Array>
+            <mxPoint x="850" y="210" as="sourcePoint" />
+            <mxPoint x="860" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Different Strategies" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-35" edge="1" parent="1" source="tNRYmi0kZrNwg3SXlgkH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="504.7971014492755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;direction=south;arcSize=12;" value="Selected approaches&lt;div&gt;&amp;amp; three seeds&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="80" x="570" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-24" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Scenc" vertex="1">
+          <mxGeometry height="80" width="80" x="320" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-25" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Scene" vertex="1">
+          <mxGeometry height="80" width="80" x="420" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-26" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Real" vertex="1">
+          <mxGeometry height="80" width="80" x="320" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-27" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Real" vertex="1">
+          <mxGeometry height="80" width="80" x="420" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-28" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Predicted" vertex="1">
+          <mxGeometry height="80" width="80" x="320" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-29" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Predicted" vertex="1">
+          <mxGeometry height="80" width="80" x="420" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-33" edge="1" parent="1" source="tNRYmi0kZrNwg3SXlgkH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="tNRYmi0kZrNwg3SXlgkH-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-34" connectable="0" parent="tNRYmi0kZrNwg3SXlgkH-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Resizing to Our size" vertex="1">
+          <mxGeometry relative="1" x="-0.0671" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Global Evaluation dataset" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="tNRYmi0kZrNwg3SXlgkH-32" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Results on the external sites" vertex="1">
+          <mxGeometry height="190" width="190" x="10" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
